@@ -4,6 +4,9 @@ In this project, you will play the Mad Libs game with MATLAB. It is a phrasal te
 
 ![image](https://user-images.githubusercontent.com/82436702/179925831-250ec89c-70d1-4d94-b175-ecad87d7aa9f.png)
 
+![image](https://user-images.githubusercontent.com/82436702/179931612-52dbcfb6-0b74-487d-b82b-dd825a4bd808.png)
+
+
 
 ## Download Code
 
