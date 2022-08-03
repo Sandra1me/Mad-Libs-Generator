@@ -7,17 +7,6 @@ In this project, you will play the Mad Libs game with MATLAB. It is a phrasal te
 ![image](https://user-images.githubusercontent.com/82436702/179931612-52dbcfb6-0b74-487d-b82b-dd825a4bd808.png)
 
 
-
-## Download Code
-
-You can download the code from this repository.
-
-![image](https://user-images.githubusercontent.com/82436702/179925903-b3b09698-4b84-4911-8e14-f1492ac5b0dd.png)
-
-1. Click on Code
-2. Choose Download Zip
-
-
 ## Usage
 
 You can run the program from the MadLibs.m file in the editor window or by calling the MadLibs script in your MATLAB console (if you are in the same folder, type the name, if not, write the full directory address).
