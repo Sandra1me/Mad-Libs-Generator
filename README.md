@@ -13,7 +13,7 @@ You can run the program from the MadLibs.m file in the editor window or by calli
 
 ![image](https://user-images.githubusercontent.com/82436702/189623426-2fc4db82-a7ef-4614-942c-c483e6880c74.png)
 
-If you don't have MATLAB, install the app by running the MyAppInstaller_mcr.exe file to install the game. Then, run the installed file.
+If you don't have MATLAB, install the app by running the MyAppInstaller_web.exe file to install the game. Then, run the installed file.
 
 After starting it, the program will ask you to insert different words, and in the end, it will print a story with what you inserted.
 
