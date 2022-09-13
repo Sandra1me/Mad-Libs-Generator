@@ -6,12 +6,14 @@ In this project, you will play the Mad Libs game with MATLAB. It is a phrasal te
 
 ![image](https://user-images.githubusercontent.com/82436702/189622421-ad5e7b0c-5f3e-42c4-a9be-cfef7fde3ed4.png)
 
+You can find the version with GUI and the MATLAB command window version.
+
+![image](https://user-images.githubusercontent.com/82436702/189623426-2fc4db82-a7ef-4614-942c-c483e6880c74.png)
+
 
 ## Usage
 
 You can run the program from the MadLibs.m file in the editor window or by calling the MadLibs script in your MATLAB console (if you are in the same folder, type the name, if not, write the full directory address). By doing this, it will run the game without GUI.
-
-![image](https://user-images.githubusercontent.com/82436702/189623426-2fc4db82-a7ef-4614-942c-c483e6880c74.png)
 
 If you don't have MATLAB, install the app by running the MyAppInstaller_web.exe file to install the game. Then, run the installed file.
 
